@@ -1,6 +1,6 @@
 # Ephraim Devtar 🎚️  
 LOGO
-![logo](https://github.com/user-attachments/assets/logo)
+![logo](https://github.com/user-attachments/assets/77d7b9e8-f2f3-4cae-91a1-48d62a54a15d)
 
 ![Devtar Slider](#) <!-- Add your main screenshot here -->
 

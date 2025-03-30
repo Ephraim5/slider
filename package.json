@@ -40,7 +40,7 @@
     "react native"
   ],
   "author": "Ephraim Senior Dev",
-  "license": "CC-BY-NC-4.0",
+  "license": "ISC",
   "files": [
     "index.js",
     "src/",
