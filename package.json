@@ -1,0 +1,64 @@
+{
+  "name": "@devtar/slider",
+  "version": "1.0.0",
+  "description": "This is a sleek and fully customizable React Native slider designed for smooth and intuitive user interaction. It features a modern aesthetic with a minimalistic design, soft animations, and responsive touch gestures. The slider includes a circular or rectangular thumb with a subtle shadow effect for better visibility, along with a progress track that adapts dynamically to user interactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ephraim5/ephraim.git"
+  },
+  "logo": "https://raw.githubusercontent.com/Ephraim5/slider/main/assets/logo.png",
+  "keywords": [
+    "Ephraim",
+    "Slider",
+    "custom",
+    "slider",
+    "ephraim",
+    "slider",
+    "modern",
+    "slider",
+    "ephraim slider",
+    "ephraim senior dev slider",
+    "ephraim senior dev",
+    "the best slider ui",
+    "best slider",
+    "music volume slider",
+    "iphone look slider",
+    "smooth slider",
+    "devtar",
+    "devt",
+    "dev",
+    "devtar/ephraim-slider",
+    "@devtar/slider",
+    "devtar/ephriam-slider",
+    "@devtar/slide",
+    "expo",
+    "react",
+    "react native"
+  ],
+  "author": "Ephraim Senior Dev",
+  "license": "CC-BY-NC-4.0",
+  "files": [
+    "index.js",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/Ephraim5/slider#readme",
+  "dependencies": {
+    "npm": "^11.2.0"
+  },
+  "peerDependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "react-native-gesture-handler": "^2.24.0",
+    "react-native-reanimated": "^3.17.1",
+    "react-native-svg": "^15.11.2"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
+}
